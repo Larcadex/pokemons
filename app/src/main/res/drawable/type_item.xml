@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="14dp" /> <!-- Радиус закругления углов, настройте по желанию -->
+    <solid android:color="@android:color/white" /> <!-- Цвет фона элемента -->
+    <padding android:bottom="4dp" /> <!-- Отступ снизу для создания эффекта тени -->
+</shape>

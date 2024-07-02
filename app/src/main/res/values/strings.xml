@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pokemon</string>
+    <string name="hp_title">HP</string>
+    <string name="atk_title">ATK</string>
+    <string name="def_title">DEF</string>
+    <string name="satk_title">SATK</string>
+    <string name="sdef_title">SDEF</string>
+    <string name="spd_title">SPD</string>
+    <string name="sort_prompt">Sort by:</string>
+
+</resources>
